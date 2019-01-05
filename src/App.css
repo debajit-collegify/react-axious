@@ -1,10 +1,20 @@
 .App {
   text-align: center;
+  color:lightcoral;
+}
+.button {
+  background-color:green;
+  border: none;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  width: 200px;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  width: 200px;
+  height: auto;
+  border: 2px solid red;
 }
 
 .App-header {
